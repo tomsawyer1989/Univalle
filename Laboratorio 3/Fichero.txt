@@ -1,0 +1,4 @@
+1630907,Jhon,3743,registrado
+Febrero,junio,2018,periodo
+12345,Calculo,3,curso
+1630907,Jhon,3743,4.5,estudiante
