@@ -1,0 +1,1 @@
+alter table tarjeta rename column codigo to numero;
